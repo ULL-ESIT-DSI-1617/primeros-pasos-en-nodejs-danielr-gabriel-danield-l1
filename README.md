@@ -14,15 +14,8 @@
 
 #Requisitos de la Práctica
 
-* En el directorio scripts/ se encuentran scripts shell para la construcción y despliegue del libro
-* Este repo utiliza el módulo gh-pages para automatizar el despliegue en gh-pages del libro
-* Reescriba los scripts shell en el directorio scripts/ para la construcción y despliegue del libro en NodeJS
-* Añada un Gulpfile con tareas build, deploy, serve, etc. que automaticen la construcción y despliegue del libro en los diferentes sites
-* Despliegue el libro en su máquina del iaas
-* Recuerde usar los issues y los projects para la colaboración
-* Despliegue el libro en su máquina virtual del iaas.ull.es siguiendo las instrucciones en
-    * SERVICIO IAAS de la ULL
-    * Como Desplegar una Aplicación Web en iaas.ull.es
+* [Enlace a la descripción de la práctica](https://casianorodriguezleon.gitbooks.io/ull-esit-1617/practicas/practicatareasiniciales2.html)
+
 
 # GitBook Boilerplate
 
