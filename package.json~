@@ -38,9 +38,6 @@
   },
   "dependencies": {
     "gulp": "^3.9.1",
-    "gulp-git": "^2.0.0",
-    "gulp-install": "^0.6.0",
-    "gulp-shell": "^0.6.1",
-    "gulp-watch": "^4.3.11"
+    "gulp-shell": "^0.6.1"
   }
 }
